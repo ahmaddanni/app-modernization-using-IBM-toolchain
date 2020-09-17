@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>My portfolio</title>
+<title>My portfolio - danninux</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -53,7 +53,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> User.</h1>
+    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Ahmad Danni - from Jakarta, Indonesia.</h1>
     <p>Cloud Developer Advocate , IBM Pakistan.</p>
     <img src="/profile.png" alt="boy" class="w3-image" width="100" height="100">
   </header>
